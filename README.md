@@ -1,5 +1,6 @@
 # Convolutional Neural Network (CNN) Building to Predict Lumbar Spine Disease
 > This project was for predicting the location and severity of lumbar spine disease based on MRI images. The Kaggle competition was hosted by the Radiological Society of North America (RSNA).
+
 *Access the Kaggle notebook [here](https://www.kaggle.com/code/gitbyt3/lumbar-spine-eda-cnn-building/notebook).*
 
 
